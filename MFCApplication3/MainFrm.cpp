@@ -110,7 +110,7 @@ int CMainFrame::OnCreate(LPCREATESTRUCT lpCreateStruct)
 	DockPane(&m_wndMenuBar);
 	DockPane(&m_wndToolBar);
 
-	 
+
 	// 启用 Visual Studio 2005 样式停靠窗口行为
 	CDockingManager::SetDockingMode(DT_SMART);
 	// 启用 Visual Studio 2005 样式停靠窗口自动隐藏行为

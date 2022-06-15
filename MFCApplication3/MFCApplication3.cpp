@@ -19,7 +19,7 @@
 
 
 // CMFCApplication3App
- 
+
 BEGIN_MESSAGE_MAP(CMFCApplication3App, CWinAppEx)
 	ON_COMMAND(ID_APP_ABOUT, &CMFCApplication3App::OnAppAbout)
 	// 基于文件的标准文档命令
